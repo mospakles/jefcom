@@ -338,9 +338,7 @@ const AboutPage = () => {
               </div>
               <div className="stat-card opacity-0 bg-gradient-to-br from-orange-600 to-orange-700 p-8 rounded-2xl text-white shadow-2xl hover:scale-105 transition-all duration-300 border-2 border-orange-500/50">
                 <Award className="w-16 h-16 mb-6 float-icon" />
-                <div className="text-4xl font-black mb-3 heading-font">
-                  00+
-                </div>
+                <div className="text-4xl font-black mb-3 heading-font">00+</div>
                 <div className="text-orange-100 font-semibold text-lg">
                   Projects Delivered
                 </div>
